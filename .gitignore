@@ -1,0 +1,15 @@
+# Local / IDE files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# WordPress environment / generated data
+wp-config.php
+wp-content/uploads/
+*.log
+
+# Dependencies intentionally omitted from this portfolio snapshot
+vendor/
+includes/carbon-fields/
+assets/fonts/
